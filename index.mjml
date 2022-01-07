@@ -1,0 +1,113 @@
+<mjml>
+  <mj-head>
+  <mj-title>Hulu Letter</title>
+  <mj-prevew>Letter from HULU</mj-preview>
+    <mj-style>
+      @media screen and (max-width: 480px) {
+        .centred {
+          padding: 15px 30px 0px 30px !important;
+        }
+        .centred div{
+          text-align: center !important;
+          padding: 0px 0px 0px 0px !important;
+        }
+      }
+      
+    </mj-style>
+  </mj-head>
+  
+  <mj-body background-color="#151515">
+
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image width="600px" align="center" padding="0px" src="https://vitalii-cherenkov.com/email-hulu/img/hero-page.gif"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" background-color="#151515" font-family="Graphik, Helvetica-Light, Helvetica, Arial, sans-serif" font-size="16px" line-height="20px" font-weight="400" padding="20px 50px 20px 50px">
+          Add Disney+ and ESPN+ to your Hulu subscription to get more great movies, shows, docs, and sports.
+        </mj-text>
+        <mj-button width="230px" height="45px" href="https://auth.hulu.com/web/login?next=%2F%2Fsecure.hulu.com%2Faccount" text-transform="uppercase" background-color="#1ce783" color="#040405" font-family="'Graphik-Medium', Helvetica-Bold, Helvetica, Arial, sans-serif" font-size="14px" line-height="16px" font-weight="bold" letter-spacing="1px" border-radius="0px">upgrade now</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column padding="0px">
+        <mj-text align="center" color="#ffffff" background-color="#151515" font-family="Graphik, Helvetica-Light, Helvetica, Arial, sans-serif" font-size="10px" line-height="12px" font-weight="300" padding="8px 15px 20px 15px">
+        18+ only. Includes Hulu (ad-supported) plan. Access content from each service separately and access ESPN+ content via Hulu. No purchase or viewing of pay-per-view and select ESPN+ content via Hulu. Location data required to watch certain content. Offer valid for eligible subscribers only. Subject to <a> The Disney Bundle terms</a>.
+        </mj-text>
+        <mj-spacer height="30px"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0px 30px 0px" background-color="#353535">
+      <mj-column width="240px" padding="20px 0px 0px 0px">
+        <mj-image width="100px" padding="0px" src="https://vitalii-cherenkov.com/email-hulu/img/logo_disney.png"/>
+      </mj-column>
+      <mj-column padding="0px">
+        <mj-text css-class="centred" color="#ffffff" background-color="#151515" font-family="Graphik, Helvetica-Light, Helvetica, Arial, sans-serif" font-size="16px" line-height="22px" font-weight="400" padding="15px 30px 0px 0px">
+          Get the best of Disney, Pixar, Marvel, Star Wars, National Geographic and more. Endless movies and TV shows. Ad free.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0px 30px 0px">
+      <mj-column width="240px" padding="20px 0px 0px 0px">
+        <mj-image width="100px" padding="0px" src="https://vitalii-cherenkov.com/email-hulu/img/logo_hulu.png"/>
+      </mj-column>
+      <mj-column>
+        <mj-text css-class="centred" color="#ffffff" background-color="#151515" font-family="Graphik, Helvetica-Light, Helvetica, Arial, sans-serif" font-size="16px" line-height="22px" font-weight="400" padding="15px 30px 0px 0px">
+          Access tons of shows and movies with your Hulu (ad-supported) plan.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0px 30px 0px" background-color="#353535">
+      <mj-column width="240px" padding="20px 0px 0px 0px">
+        <mj-image width="100px" padding="0px" src="https://vitalii-cherenkov.com/email-hulu/img/logo_espn.png"/>
+      </mj-column>
+      <mj-column>
+        <mj-text css-class="centred" color="#ffffff" background-color="#151515" font-family="Graphik, Helvetica-Light, Helvetica, Arial, sans-serif" font-size="16px" line-height="22px" font-weight="400" padding="15px 30px 0px 0px">
+          Stream thousands of live events, exclusive originals, the complete <i>30 for 30</i> library, and more.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px">
+      <mj-column>
+        <mj-button width="230px" height="45px" href="https://auth.hulu.com/web/login?next=%2F%2Fsecure.hulu.com%2Faccount" text-transform="uppercase" background-color="#1ce783" color="#040405" font-family="'Graphik-Medium', Helvetica-Bold, Helvetica, Arial, sans-serif" font-size="14px" line-height="16px" font-weight="bold" letter-spacing="1px" border-radius="0px">bundle & save</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column padding="0px">
+        <mj-text align="center" color="#ffffff" background-color="#151515" font-family="Graphik, Helvetica-Light, Helvetica, Arial, sans-serif" font-size="10px" line-height="12px" font-weight="300" padding="8px 15px 20px 15px">
+        18+ only. Includes Hulu (ad-supported) plan. Access content from each service separately and access ESPN+ content via Hulu. No purchase or viewing of pay-per-view and select ESPN+ content via Hulu. Location data required to watch certain content. Offer valid for eligible subscribers only. Subject to <a> The Disney Bundle terms</a>.
+        </mj-text>
+        <mj-spacer height="30px"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column padding="0px" background-color="#000000">
+        <mj-divider padding="0px" border-width="1px" border-style="solid" border-color="#808080"/>
+        <mj-spacer height="20px" border-top="1px solid #808080"/>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0">
+          <mj-social-element src="https://vitalii-cherenkov.com/email-hulu/img/icon_instagram.png" padding="0px 20px 0px 0px" href="https://click.hulumail.com/?qs=666b4cbf46ac6c69644c7a1bbb474e247cd742150eee48c6adc2c620666ddc977a065a79dfca5ca40e6632f658aa443f19fee13a82d732cf"></mj-social-element>
+          <mj-social-element src="https://vitalii-cherenkov.com/email-hulu/img/icon_facebook.png" padding="0px 20px 0px 0px" href="https://click.hulumail.com/?qs=666b4cbf46ac6c69a60cad5d7be482ca908776ec9d134e9a894d23db75f3fc456fe0455b2f258e2e40add6d31c4798baaee47ff066472a84"></mj-social-element>
+          <mj-social-element src="https://vitalii-cherenkov.com/email-hulu/img/icon_twitter.png" href="https://click.hulumail.com/?qs=666b4cbf46ac6c693df8cf18d894f3273fc0fcfbe13f71d4057eb30722bf8f6f27572a3cd9a9353b4943fe5d26cc9224df2f1218011e679c"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#8a8a8a" background-color="#151515" font-family="Graphik, Helvetica-Light, Helvetica, Arial, sans-serif" font-size="12px" line-height="16px" font-weight="400" padding="20px 0px 0px 0px">Hulu, LLC. 2500 Broadway, 2nd Floor, Santa Monica, CA 90404</mj-text>
+        <mj-navbar padding="20px 0px 0px 0px">
+            <mj-navbar-link href="https://click.hulumail.com/?qs=7197fd603ba1c5200c1c21e5156dd95771a9dae8af2a38125c196c14d755e67840ef3d5f908bee81f0a2965f947a548d722d24f9a085d8df5e342ad62e09d585" color="#8a8a8a" font-size="12px" line-height="16px" font-weight="400" text-transform="capitalize" text-decoration="underline">Getting started</mj-navbar-link>
+            <mj-navbar-link href="https://click.hulumail.com/?qs=7197fd603ba1c5202baca9f6a10deefbc06b8d147ae3ebd0a7cf654551683c29a219335e9213ee7e12789f8932071eb9b9e036e134b1e6c5" color="#8a8a8a" font-size="12px" line-height="16px" font-weight="400" text-transform="capitalize" text-decoration="underline">Try it live</mj-navbar-link>
+            <mj-navbar-link href="https://click.hulumail.com/?qs=7197fd603ba1c520b7f076318e1cf00d0bcefe5093dd90c6b3d0f0dbf225982768b303963c51b38905c4aa30a7a6b3c3dd495b2705143164" color="#8a8a8a" font-size="12px" line-height="16px" font-weight="400" text-transform="capitalize" text-decoration="underline">Templates</mj-navbar-link>
+            <mj-navbar-link href="https://click.hulumail.com/?qs=7197fd603ba1c5203bd666745c6c2c54da08102aa13307574f226fbbe83ea8c36723b41735e88d5ad4c1bc2caf773d9b094758bdf1afa873" color="#8a8a8a" font-size="12px" line-height="16px" font-weight="400" text-transform="capitalize" text-decoration="underline">Components</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
